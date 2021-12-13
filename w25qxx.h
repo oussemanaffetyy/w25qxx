@@ -1,7 +1,7 @@
 #ifndef _W25QXX_H
 #define _W25QXX_H
 
-/*
+/* 
   Author:     Nima Askari
   WebSite:    http://www.github.com/NimaLTD
   Instagram:  http://instagram.com/github.NimaLTD
